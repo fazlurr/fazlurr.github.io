@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Fazlur Rahman",
+    "label": "Programmer",
+    "picture": "",
+    "email": "f.rahman.id@gmail.com",
+    "phone": "-",
+    "website": "http://fazlurrahman.com",
+    "summary": "Fazlur Rahman from Indonesia. He has earned degrees from Indonesia Institute of Technology. Currently working at Pixel House Studio as a Lead Software Engineer. He had worked for Bewei Digital Agency as a web and mobile apps developer.",
+    "location": {
+      "address": "Golden Vienna I, Blok B6 No.1 BSD City, Kelurahan Rawabuntu, Kecamatan Serpong",
+      "postalCode": "15310",
+      "city": "Tangerang Selatan",
+      "countryCode": "ID",
+      "region": "Banten"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Fazlur Rahman",
+        "url": "https://www.linkedin.com/in/fazlurr/"
+      },
+      {
+        "network": "Twitter",
+        "username": "fazzlurr",
+        "url": "https://twitter.com/fazzlurr"
+      },
+      {
+        "network": "About Me",
+        "username": "Fazlur Rahman",
+        "url": "http://about.me/fazz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pixel House Studio",
+      "position": "Software Engineer",
+      "website": "http://pixelhouse.id",
+      "startDate": "2016-02-10",
+      "endDate": "Present",
+      "summary": "Create Web Apps for Digital Marketers especially in Indonesia.",
+      "highlights": [
+        "Develop Managix.id with Laravel, jQuery, and React"
+      ]
+    },
+    {
+      "company": "Bewei Digital",
+      "position": "Web and Mobile Apps Developer",
+      "website": "http://beweidigital.com",
+      "startDate": "2013-07-20",
+      "endDate": "2015-07-20",
+      "summary": "Started as a part time web developer using WordPress CMS, and then become Mobile Apps Developer",
+      "highlights": [
+        "Develop a website to create custom design outfit for http://rupada.com"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indonesia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-10",
+      "endDate": "2014-09-05",
+      "gpa": "3.53",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Microsoft Imagine Cup 2013, Indonesia",
+      "date": "2012-03-22",
+      "awarder": "Microsoft Indonesia",
+      "summary": "Top 5 in Innovation Category - Develop SightKey (virtual keyboard substitute for sightless people)"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "React",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "WordPress CMS",
+        "Node.js",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Android Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "Android Studio",
+        "Material Design"
+      ]
+    },
+    {
+      "name": "iOS Developer",
+      "level": "Beginner",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Manga & Anime",
+      "keywords": [
+        "One Piece"
+      ]
+    }
+  ],
+  "references": []
+}
